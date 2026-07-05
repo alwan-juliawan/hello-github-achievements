@@ -8,3 +8,7 @@ Repo latihan buat belajar workflow GitHub (issue, branch, pull request, merge).
 
 ## Author
 alwan-juliawan
+
+## Usage
+
+Buka repo ini, baca README, lalu coba workflow issue dan pull request.
