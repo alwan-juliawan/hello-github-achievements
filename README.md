@@ -12,3 +12,8 @@ alwan-juliawan
 ## Usage
 
 Buka repo ini, baca README, lalu coba workflow issue dan pull request.
+
+## Credits
+
+Dibuat kolaboratif.
+
